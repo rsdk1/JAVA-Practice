@@ -20,10 +20,11 @@ This repository contains various Java programs I’ve written while learning and
 2. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/<your-repo-name>.git
+____
 
-   # AUTHOR : RajaSuma.D.K
-   # Linkedin: www.linkedin.com/in/rsdk
-   # Github: https://github.com/rsdk1
-   # Website: https://rsdk.my.canva.site/
+   AUTHOR : RajaSuma.D.K
+   Linkedin: www.linkedin.com/in/rsdk
+   Github: https://github.com/rsdk1
+   Website: https://rsdk.my.canva.site/
    
    
