@@ -19,6 +19,8 @@ This repository contains various Java programs I’ve written while learning and
 1. Install Java JDK (version 8+)
 2. Clone this repository:
    ```bash
+   ---
+   
    git clone https://github.com/<your-username>/<your-repo-name>.git
 ____
 
